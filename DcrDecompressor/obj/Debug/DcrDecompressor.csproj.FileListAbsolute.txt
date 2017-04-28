@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Debug\DcrDecompressor.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Debug\DcrDecompressor.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Debug\DcrDecompressor.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\DcrDecompressor\DcrDecompressor\obj\Debug\DcrDecompressor.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\DcrDecompressor\DcrDecompressor\obj\Debug\DcrDecompressor.exe
+c:\users\administrator\documents\visual studio 2015\Projects\DcrDecompressor\DcrDecompressor\obj\Debug\DcrDecompressor.pdb

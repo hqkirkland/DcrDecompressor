@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Release\DcrDecompressor.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Release\DcrDecompressor.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Release\DcrDecompressor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\bin\Release\zlibnet.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\obj\Release\DcrDecompressor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\obj\Release\DcrDecompressor.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\DcrDecompressor\DcrDecompressor\obj\Release\DcrDecompressor.pdb
